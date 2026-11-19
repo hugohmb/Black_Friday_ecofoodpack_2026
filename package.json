@@ -1,0 +1,11 @@
+{
+  "name": "landing-black-friday-ecofoodpack",
+  "version": "1.0.0",
+  "description": "Landing page de Black Friday da Ecofoodpack com animações guiadas por rolagem, física 2D e vitrine de produtos atualizada automaticamente.",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes serve . -l 5500",
+    "build": "node scripts/build-tray.mjs"
+  },
+  "engines": { "node": ">=16" }
+}
