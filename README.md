@@ -102,7 +102,7 @@ O build também converte todos os caracteres fora do ASCII (acentos, travessões
 
 ## 👤 Autor
 
-**[Seu nome]**: [LinkedIn](https://www.linkedin.com/) · [Portfólio](#)
+**Hugo Mendes**: [LinkedIn](https://www.linkedin.com/) · [Portfólio](#)
 
 ## 📄 Direitos
 
